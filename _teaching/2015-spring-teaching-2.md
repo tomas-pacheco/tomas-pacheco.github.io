@@ -7,5 +7,3 @@ venue: "Universidad de San Andrés, Department of Economics"
 date: 02-08-2021
 location: "Buenos Aires, Argentina"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
