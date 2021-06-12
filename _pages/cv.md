@@ -11,49 +11,61 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor in Economics, Universidad de San Andrés. 2021 (expected)
+* Certificate of Advanced English, Cambridge University. 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2020 - Present: Research Assistant
+  * Universidad de San Andrés
+  * Supervisor: María Amelia Gibbons
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* April - May 2021 : Research Assistant
+  * Universidad Adolfo Ibáñez
+  * Supervisor: Ariel Casarín
+
+* March - December 2020: Assistant
+  * Department of Economics, Universidad de San Andrés
+  * Supervisor: Tamara Sulaque
+
+* March - December 2019: Assitant
+  * Admission Office, Universidad de San Andrés
+  * Supervisor: Mariana Ingelmo
+
+Scholarships
+======
+
+* Beca Abanderados Argentinos
+  *  Universidad de San Andrés
+  *  Scholarship for undergraduate studies. It is based on merit and financial need. 
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* MS Office. Advanced
+* LaTeX. Advanced
+* STATA. Advanced
+* R. Intermediate
+* Python. Intermediate
+* Github. Basic
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Languages
 ======
-* Currently signed in to 43 different slack teams
+* Spanish
+  * Native
+* English
+  * Fluent
+
+Other
+======
+
+* Volunteer in the program "Preguntanos" from Asociación Conciencia Bahía Blanca since August 2020. This program offers tuition to children from elementary and high school in a pandemic context.
+
+* Volunteer in Asociación Civil Mujeres 2000 since September 2019. I teach economics, mathematica, accountancy and statistics to children in high school and university.
+
+* Participant in four United Nations Models organized by Asociación Conciencia.
