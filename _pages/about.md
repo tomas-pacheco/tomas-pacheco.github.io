@@ -10,4 +10,4 @@ redirect_from:
 
 Economics student at [Universidad de San Andrés](https://udesa.edu.ar/). Expected graduation: December 2021.
 
-Interested in econometrics, applied economics and big data.
+My interests are econometrics, applied economics and big data.
