@@ -11,11 +11,13 @@ redirect_from:
 
 Education
 ======
-* Bachelor in Economics, Universidad de San Andrés. 2021 (expected)
+* Masters in Economics, Universidad de San Andrés. 2022 (expected)
+* Bachelor in Economics, Universidad de San Andrés. 2021 (thesis pending)
 * Certificate of Advanced English, Cambridge University. 2017
 
 Work experience
 ======
+
 * April 2020 - Present: Research Assistant
   * Universidad de San Andrés
   * Supervisor: María Amelia Gibbons
@@ -34,6 +36,10 @@ Work experience
 
 Scholarships
 ======
+
+* Scholarship for Master in Economics
+  *  Universidad de San Andrés
+  *  Scholarship for graduate studies.
 
 * Beca Abanderados Argentinos
   *  Universidad de San Andrés
@@ -66,6 +72,6 @@ Other
 
 * Volunteer in the program "Preguntanos" from Asociación Conciencia Bahía Blanca since August 2020. This program offers tuition to children from elementary and high school in a pandemic context.
 
-* Volunteer in Asociación Civil Mujeres 2000 since September 2019. I teach economics, mathematica, accountancy and statistics to children in high school and university.
+* Volunteer in Asociación Civil Mujeres 2000 since September 2019. I teach economics, mathematics, accountancy and statistics to children in high school and university.
 
 * Participant in four United Nations Models organized by Asociación Conciencia.
