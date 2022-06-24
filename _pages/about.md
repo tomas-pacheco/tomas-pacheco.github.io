@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Economics student at [Universidad de San Andrés](https://udesa.edu.ar/). Expected graduation: December 2021.
+MA Economics student at [Universidad de San Andrés](https://udesa.edu.ar/). Expected graduation: 2022.
 
 My interests are econometrics, applied economics and big data.
