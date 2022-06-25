@@ -18,13 +18,11 @@ Education
 Work experience
 ======
 
-* April 2020 - Present: Research Assistant
+* April 2020 - Present: Research Assistant for María Amelia Gibbons
   * Universidad de San Andrés
-  * Supervisor: María Amelia Gibbons
 
-* April - May 2021 : Research Assistant
+* April - May 2021 : Research Assistant for Ariel Casarín
   * Universidad Adolfo Ibáñez
-  * Supervisor: Ariel Casarín
 
 * March - December 2020: Assistant
   * Department of Economics, Universidad de San Andrés
