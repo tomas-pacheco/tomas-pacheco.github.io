@@ -13,7 +13,6 @@ Education
 ======
 * Masters in Economics, Universidad de San Andrés. 2022 (expected)
 * Bachelor in Economics, Universidad de San Andrés. 2021 (thesis pending)
-* Certificate of Advanced English, Cambridge University. 2017
 
 Work experience
 ======
@@ -64,6 +63,7 @@ Languages
   * Native
 * English
   * Fluent
+  * I hold the Certificate of Advanced English, Cambridge University (2017)
 
 Other
 ======
